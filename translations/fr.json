@@ -1,0 +1,67 @@
+
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "sermons": "Sermons",
+    "events": "Événements",
+    "live": "En Direct",
+    "prayer": "Prière",
+    "giving": "Dons",
+    "shop": "Boutique",
+    "portal": "Portail"
+  },
+  "landing": {
+    "welcome": "Bienvenue à l'Église Glorieuse",
+    "heroTitle": "Venez et Expérimentez",
+    "heroSub": "Sa Présence Divine",
+    "heroDesc": "Nous sommes une communauté de foi dynamique dédiée à répandre l'amour de Jésus-Christ par une adoration puissante et des enseignements transformateurs.",
+    "joinLive": "Rejoindre le Service",
+    "newHere": "Nouveau ici ?",
+    "visionTitle": "Notre Cœur",
+    "visionDesc": "Nourrir une communauté où chacun se sent aimé et valorisé.",
+    "upcomingEvents": "Événements à Venir",
+    "upcomingDesc": "Ne manquez pas nos prochains ateliers et soirées d'adoration.",
+    "seeCalendar": "Voir le Calendrier",
+    "location": "Cameroun – Kumba (Faingo)"
+  },
+  "giving": {
+    "title": "Don Généreux",
+    "quote": "Que chacun donne comme il l'a résolu en son coeur, sans tristesse ni contrainte; car Dieu aime celui qui donne avec joie.",
+    "amountLabel": "Montant",
+    "currencyLabel": "Choisir la devise",
+    "donorLabel": "Nom du Donateur (Optionnel)",
+    "proceed": "Passer au Paiement Sécurisé",
+    "paymentMethod": "Choisir le Mode de Paiement",
+    "methods": {
+      "card": "Carte (Visa/Master)",
+      "paypal": "PayPal",
+      "momo": "Mobile Money"
+    }
+  },
+  "shop": {
+    "title": "Bibliothèque Numérique",
+    "sub": "Grandissez dans la foi avec notre collection d'eBooks inspirants.",
+    "free": "Gratuit",
+    "buy": "Acheter",
+    "download": "Télécharger",
+    "checkout": "Caisse",
+    "successTitle": "Achat Réussi !",
+    "successMsg": "Votre eBook est prêt. Cliquez sur le bouton ci-dessous pour télécharger votre copie.",
+    "downloadNow": "Télécharger Maintenant"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "sub": "Nous serions ravis de vous entendre. Contactez-nous pour une prière ou un conseil.",
+    "infoTitle": "Informations de Contact",
+    "visitUs": "Visitez-nous",
+    "address": "Cameroun – Kumba (Faingo)",
+    "formLabels": {
+      "name": "Votre Nom",
+      "email": "Adresse Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message"
+    }
+  }
+}

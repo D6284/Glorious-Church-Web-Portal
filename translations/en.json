@@ -1,0 +1,67 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "sermons": "Sermons",
+    "events": "Events",
+    "live": "Live",
+    "prayer": "Prayer",
+    "giving": "Giving",
+    "shop": "Shop",
+    "portal": "Portal"
+  },
+  "landing": {
+    "welcome": "Welcome to Glorious Church",
+    "heroTitle": "Come and Experience",
+    "heroSub": "His Divine Presence",
+    "heroDesc": "We are a vibrant community of faith dedicated to spreading the love of Jesus Christ through powerful worship and transformative teachings.",
+    "joinLive": "Join Live Service",
+    "newHere": "New Here?",
+    "visionTitle": "Our Heart",
+    "visionDesc": "To nurture a community where everyone feels loved and empowered.",
+    "upcomingEvents": "Upcoming Events",
+    "upcomingDesc": "Don't miss out on our upcoming transformative workshops and worship nights.",
+    "seeCalendar": "See Calendar",
+    "location": "Cameroon – Kumba (Faingo)"
+  },
+  "giving": {
+    "title": "Generous Giving",
+    "quote": "Each of you should give what you have decided in your heart to give, for God loves a cheerful giver.",
+    "amountLabel": "Amount",
+    "currencyLabel": "Select Currency",
+    "donorLabel": "Donor Name (Optional)",
+    "proceed": "Proceed to Secure Payment",
+    "paymentMethod": "Select Payment Method",
+    "methods": {
+      "card": "Card (Visa/Master)",
+      "paypal": "PayPal",
+      "momo": "Mobile Money"
+    }
+  },
+  "shop": {
+    "title": "Digital Library",
+    "sub": "Grow your faith with our collection of inspirational eBooks and resources.",
+    "free": "Free",
+    "buy": "Buy eBook",
+    "download": "Download",
+    "checkout": "Checkout",
+    "successTitle": "Purchase Successful!",
+    "successMsg": "Your eBook is ready. Click the button below to download your copy.",
+    "downloadNow": "Download Now"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "sub": "We would love to hear from you. Reach out for prayer or counseling.",
+    "infoTitle": "Contact Information",
+    "visitUs": "Visit Us",
+    "address": "Cameroon – Kumba (Faingo)",
+    "formLabels": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  }
+}

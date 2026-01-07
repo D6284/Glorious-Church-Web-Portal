@@ -1,0 +1,8 @@
+{
+  "name": "Glorious Church Web Portal",
+  "description": "A modern, responsive church management system and public website for Glorious Church in Kumba (Faingo), Cameroon. Featuring sermons, events, live streaming, and a full admin dashboard built with React, Tailwind, and Supabase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
